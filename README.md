@@ -11,3 +11,8 @@ lines.txt contains lines after union operation by AutoCAD.
 
 ## Result demo 
 ![Figure 1](https://image.ibb.co/mTPxB5/aaaa.png "Figure 1")
+
+## Referrence
+1. Queue.java is cited from the course web CS1501 Algorithm implementation of PITT
+   http://people.cs.pitt.edu/~ramirez/cs1501/
+2. BoxException.java is writen by one of the project leaders Joseph M. Newcomer
