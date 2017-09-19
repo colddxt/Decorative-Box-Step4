@@ -10,3 +10,4 @@ lines.txt contains lines after union operation by AutoCAD.
 3. Visualize the result.
 
 ## Result demo 
+![Figure 1-1](https://ibb.co/cDrcB5 "Figure 1")
